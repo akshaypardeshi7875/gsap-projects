@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* body{
+    background-color: black;
+    color: white;
+} */
+#string{
+    height: 200px;
+    width: 100vw;
+    background-color: hsl(50deg, 100%, 90%);
+}

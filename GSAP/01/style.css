@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #111;
+}
+
+nav{
+    display: flex;
+    height:80px;
+    width: 100%;
+    background-color: black;
+    justify-content: space-between;
+}
+#logo{
+    color: white;
+    font-size: 34px;
+    line-height: 80px;
+    padding-left: 20px;
+    /* float: left; */
+}
+#nav-links{
+    display: flex;
+    /* float: right; */
+    padding-right: 20px;
+    line-height: 80px;
+    gap: 40px;
+}
+#nav-links a{
+    color: white;
+    text-decoration: none;
+    font-size: 28px;
+}
+
+#box{
+    background-color: royalblue;
+    height: 300px;
+    width: 400px;
+    margin: 50px 50px ;
+
+}
