@@ -10,6 +10,7 @@ This repository showcases various animation techniques used in modern web develo
 * HTML5
 * CSS3
 * JavaScript (ES6+)
+* React
 * GSAP (GreenSock Animation Library)
 
 ---
