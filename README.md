@@ -65,7 +65,7 @@ git clone https://github.com/akshaypardeshi/gsap-projects.git
 
 ## 📸 Screenshots
 
-(Add project screenshots here)
+
 
 ---
 
